@@ -1,0 +1,12 @@
+certifi
+dill
+fastapi
+imblearn
+pandas
+pymongo
+PyYAML
+scikit-learn
+scipy
+uvicorn
+xgboost
+-e .
